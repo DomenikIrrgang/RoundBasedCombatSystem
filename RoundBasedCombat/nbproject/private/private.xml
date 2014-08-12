@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/BuffResult.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Spells/Fireball.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Spells/MagicMirror.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Combat.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/CombatMath.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/SpellType.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/StatSet.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/StatusBuff.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Log/CombatLog.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Log/CombatLogEntry.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Spells/Shrink.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Spells/FireballDOT.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/AbilityType.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/TargetType.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Spells/Acceleration.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/RoundBasedCombat.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/ObserverPattern/Observable.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Log/BuffFadedLogEntry.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/StatBuff.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Spells/DivineShield.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/HealthBuff.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/CombatTurnEntry.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Spells/Renew.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/BuffAbility.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Spells/SpellSteel.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/BuffType.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/AttackLanded.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/UnitStatus.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/CombatAction.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Log/BuffAppliedLogEntry.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Spells/DominationOfLife.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Unit.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Log/BuffLogEntry.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Log/DamageLogEntry.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/ObserverPattern/Observer.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Buff.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Spells/Dispell.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Spells/FlashHeal.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/Ability.java</file>
+            <file>file:/C:/Users/Domenik/Documents/NetBeansProjects/RoundBasedCombat/src/roundbasedcombat/AttackResult.java</file>
+        </group>
+    </open-files>
+</project-private>
